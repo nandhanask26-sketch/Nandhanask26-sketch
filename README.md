@@ -26,19 +26,35 @@
 
 class NandhanaSK:
 
-    name         = "Nandhana S K"
-    location     = "Chennai, Tamil Nadu 🇮🇳"
-    degree       = "B.Tech — AI & Data Science"
-    college      = "Chennai Institute of Technology"
-    cgpa         = 8.0
-    github       = "nandhanask26-sketch"
-    email        = "nandhanask26@gmail.com"
+    # Hi, I'm Nandhana S K
+
+### AI & Data Science Student | Machine Learning, Generative AI & Computer Vision Enthusiast
+
+Chennai, India
+
+B.Tech Artificial Intelligence & Data Science (2024–2028) | CGPA: 8.0/10
+
+* Solved 400+ LeetCode Problems (Peak Rating: 1700)
+* AWS Cloud Practitioner Certified
+* Cisco Cybersecurity Essentials Certified
+* Cisco AI & Data Science Certified
+* NPTEL Certified in Internet of Things (IoT)
+* WorldQuant University Applied Data Science Lab Graduate
+
+Areas of Interest:
+Machine Learning • Computer Vision • Generative AI • Large Language Models (LLMs) • Data Science
+
+Currently Learning:
+Retrieval-Augmented Generation (RAG) • Deep Learning • Cloud Technologies • Advanced Data Structures & Algorithms
+
+Email: [nandhanask26@gmail.com](mailto:nandhanask26@gmail.com)
+
 
     stack = {
         "languages" : ["Python","Java","C","C++","JS","SQL"],
         "frontend"  : ["HTML","CSS","React","React Native"],
         "ml_ai"     : ["TensorFlow","CNN","LSTM","MTCNN","Gradio"],
-        "tools"     : ["Git","VS Code","Google Colab","AWS"],
+        "tools"     : ["Git","VS Code","Google Colab","AWS", "service now"],
     }
 
     hobbies = ["Competitive Coding 💻","Problem Solving 🧩",
